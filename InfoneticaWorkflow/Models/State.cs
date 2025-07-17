@@ -1,5 +1,11 @@
 namespace InfoneticaWorkflow.Models;
 
+/*
+    id / name,
+    isInitial (bool),
+    isFinal (bool), 
+    enabled (bool) 
+*/
 public class State
 {
     public string Id { get; set; } = default!;

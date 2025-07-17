@@ -1,5 +1,10 @@
 namespace InfoneticaWorkflow.Models;
 
+/*
+    id / name, enabled (bool),
+    fromStates (collection of state IDs), 
+    toState (single state ID) 
+*/
 public class ActionDefinition
 {
     public string Id { get; set; } = default!;

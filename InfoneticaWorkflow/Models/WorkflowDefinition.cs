@@ -1,5 +1,8 @@
 namespace InfoneticaWorkflow.Models;
 
+/*
+Collection of States and Actions that define a workflow.
+*/
 public class WorkflowDefinition
 {
     public string Id { get; set; } = default!;
