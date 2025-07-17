@@ -84,3 +84,7 @@ it validates the requests as per instruction
 the InMemoryStore.cs handles the local data storage during the runtime
 
 
+## Myself
+ Satwik Midya
+ 23AE10031 satwikmidya@gmail.com
+ IIT Kgp
